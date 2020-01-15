@@ -1,4 +1,4 @@
-## About this repo
+# About this repo
 
 As TrustInSoft CI user (or not), feel free to use this repository for raising issues (questions, feature requests, bugs...) related to TrustInSoft CI.
 
