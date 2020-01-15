@@ -1,6 +1,6 @@
 # About this repo
 
-As TrustInSoft CI user (or not), feel free to use this repository for raising issues (questions, feature requests, bugs...) related to TrustInSoft CI.
+As TrustInSoft CI user (or not), feel free to use this repository for raising issues (questions, feature requests, bugs...) about TrustInSoft CI.
 
 ## About TrustInSoft CI
 
